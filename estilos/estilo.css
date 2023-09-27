@@ -1,0 +1,22 @@
+body, #container {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    display: flexbox;
+    flex-direction: row;
+}
+
+#contatos {
+    width: 30%;
+    border: 1px #000 solid;
+    background-color: #c3c3c3;
+}
+
+#chat {
+    background-color: #ece5e5;
+}
